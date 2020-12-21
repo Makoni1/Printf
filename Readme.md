@@ -1,8 +1,8 @@
 # My_printf() function 
 
-This project was solved for teaching purposes
+This project was solved for learning purposes
 
-## Improve skils:
+## Improve skills:
 - C
 
 ### Description
